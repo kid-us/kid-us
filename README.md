@@ -10,7 +10,7 @@
 - 💬 Ask me about **React / Laravel / PHP / JS / Bootstrap**
 
 - 📫 How to reach me **kidushh29@gmail.com**
-- 
+
 - 🔗 My site:  <a href = "https://kidus-w.web.app"> here </a>
 
 <h3 align="left">Connect with me:</h3>
