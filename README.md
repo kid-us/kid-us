@@ -1,4 +1,4 @@
-### Hi there <h1> 👋 </h1>
+### Hi there 👋
 
 This is the place where I opensource stuff and break things 
 
@@ -9,4 +9,4 @@ This is the place where I opensource stuff and break things
 -> 📫 How to reach me: kidushh29@gmail.com <br>
 
 ✨  About Me
-I am a Full Stack Web Developer with 3 years of experience in developing wen based sites.
+I am a Full Stack Web Developer with 3 years of experience in developing web based sites.
