@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://kidus-w.web.app](https://kidus-w.web.app)
+- 👨‍💻 All of my projects are available at https://kiduswebsdev.web.app.
 
 - 💬 Ask me about **React / Laravel / PHP / JS / Bootstrap**
 
