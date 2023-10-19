@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kidushh29@gmail.com**
 
-- 🔗 My site:  <a href = "https://kidus-w.web.app"> here </a>
+- 🔗 My site:  <a href = "https://kiduswebsdev.web.app"> here </a>
 
 <br/>
 
