@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kidus</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<h3 align="center">A Passionate front-end developer</h3>
 
 - 🔭 I’m currently working on **Something Cool**
 
