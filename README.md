@@ -27,9 +27,9 @@
 
 <br />
 
-# Hi there 👋! I'm Kidus, with over 4+ years of experience in creating beautiful, functional, and user-friendly web applications. With a strong foundation in web technologies and a keen eye for design, I strive to build responsive, accessible, and user-friendly web applications. My journey into web development began with a deep fascination for how websites are built and the immense creativity involved in designing them. Over the years, this interest has blossomed into a fulfilling career where I constantly strive to push the boundaries of what's possible on the web.
+Hi there 👋! I'm Kidus, with over 4+ years of experience in creating beautiful, functional, and user-friendly web applications. With a strong foundation in web technologies and a keen eye for design, I strive to build responsive, accessible, and user-friendly web applications. My journey into web development began with a deep fascination for how websites are built and the immense creativity involved in designing them. Over the years, this interest has blossomed into a fulfilling career where I constantly strive to push the boundaries of what's possible on the web.
 
-# Currently, I'm expanding my expertise to mobile app development using React Native. Soon, the era of creating beautiful, functional, and user-friendly web applications will extend to mobile apps as well.
+Currently, I'm expanding my expertise to mobile app development using React Native. Soon, the era of creating beautiful, functional, and user-friendly web applications will extend to mobile apps as well.
 
 <br />
 <br />
