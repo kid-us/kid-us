@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Something Cool**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at https://kiduswebsdev.web.app.
 
