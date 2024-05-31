@@ -14,12 +14,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
-![Tailwind CSS](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-tailwind-000000?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-CSS-000000?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 
 
-**Languages, Libraries and Frameworks I have used**
+**Languages I have worked with**
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-java-000000?style=flat&logo=java)
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=C#)
+![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=csharp)
