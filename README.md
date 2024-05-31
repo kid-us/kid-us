@@ -29,7 +29,6 @@
 👋 Hi there! I'm Kidus, a passionate frontend developer with a knack for creating intuitive and dynamic user interfaces. With a strong foundation in web technologies and a keen eye for design, I strive to build responsive, accessible, and user-friendly web applications.
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-us&hide=html,css,blade,php)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-us&layout=compact&hide=html,blade,php)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-us&layout=compact&hide=c,python,shell,blade&theme=radical)
 
 
