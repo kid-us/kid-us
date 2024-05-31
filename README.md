@@ -26,11 +26,15 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 
-👋 Hi there! I'm Kidus, a passionate frontend developer with a knack for creating intuitive and dynamic user interfaces. With a strong foundation in web technologies and a keen eye for design, I strive to build responsive, accessible, and user-friendly web applications.
+<p>
+ 👋 Hi there! I'm Kidus, a passionate frontend developer with a knack for creating intuitive and dynamic user interfaces. With a strong foundation in web technologies and a keen eye for design, I strive to build responsive, accessible, and user-friendly web applications.
+  
+ 
+</p>
 
+<br />
+<br />
 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-us&layout=compact&hide=c,python,shell,php,assembley,blade&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-us&layout=compact&hide=c,python,shell,php,assembly,blade&theme=radical)
 
 
