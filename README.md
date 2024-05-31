@@ -11,10 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-CSS-000000?style=flat&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 
 
@@ -25,3 +24,5 @@
 ![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
