@@ -16,7 +16,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 
-
 **Languages I have worked with**
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -26,3 +25,5 @@
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
+
+👋 Hi there! I'm Kidus, a passionate frontend developer with a knack for creating intuitive and dynamic user interfaces. With a strong foundation in web technologies and a keen eye for design, I strive to build responsive, accessible, and user-friendly web applications.
