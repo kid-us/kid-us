@@ -30,4 +30,6 @@
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-us&hide=html,css,blade,php)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-us&layout=compact&hide=html,blade,php)
+
 
