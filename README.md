@@ -15,13 +15,14 @@ React        ███████████████▓░░░░░░�
 
 
 **Languages I have used**
+<br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
 
 **Some of the technologies I have worked with**
 
