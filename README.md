@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Kidus!;I'm+a+Front+end+Developer)](https://kiduswebsdev.web.app)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:kidushh29@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-3b5998?style=flat-square&labelColor=3b5998&logo=twitter&logoColor=white&link=https://twitter.com/kidus_29/)](https://twitter.com/kidus_29) [![Telegram Badge](https://img.shields.io/badge/-Telegram-3b5998?style=flat-square&labelColor=3b5998&logo=Telegram&logoColor=white&link=https://t.me/Kid_uss/)](https://t.me/Kid_uss)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:kidushh29@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-3b5998?style=flat-square&labelColor=3b5998&logo=twitter&logoColor=white&link=https://twitter.com/kidus_29/)](https://twitter.com/kidus_29) [![Telegram Badge](https://img.shields.io/badge/-Telegram-05eaf2?style=flat-square&labelColor=05eaf2&logo=Telegram&logoColor=white&link=https://t.me/Kid_uss/)](https://t.me/Kid_uss)
  [![Website](https://img.shields.io/badge/-Website-black.svg?style=flat-square&logo=google-chrome&logoColor=700E01&colorB=FFBF00)](https://kiduswebsdev.web.app)
 
 
