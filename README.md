@@ -1,19 +1,51 @@
-<h1 align="center">Hi 👋, I'm Kidus</h1>
-<h3 align="center">A Passionate front-end developer</h3>
+<!-- ### Hi there 👋 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Kidus!;I'm+a+Front+end+Developer)](https://kiduswebs.web.app)
 
-- 🔭 I’m currently working on **Something Cool**
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:hope.miky1074@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/tesfamichael-molla-989236171/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/tesfamichael.molla/)](https://www.facebook.com/tesfamichael.molla) [![Twitter Badge](https://img.shields.io/badge/-Twitter-3b5998?style=flat-square&labelColor=3b5998&logo=twitter&logoColor=white&link=https://twitter.com/hopemichael1074/)](https://twitter.com/hopemichael1074)
+ [![Website](https://img.shields.io/badge/-Website-black.svg?style=flat-square&logo=google-chrome&logoColor=700E01&colorB=FFBF00)](https://tesfamichael.dev)
 
-- 🌱 I’m currently learning **React Native**
+<!-- ```text
+Frameworks I am confortable in
 
-- 👨‍💻 All of my projects are available at https://kiduswebsdev.web.app.
+Djang        ███████████████████████▓░  
+Flutter      █████████████████████▓░░░  
+Vue.js       ███████████████▓░░░░░░░░░  
+React        ███████████████▓░░░░░░░░░  
+``` -->
 
-- 💬 Ask me about **React / Laravel / PHP / JS / Bootstrap**
 
-- 📫 How to reach me **kidushh29@gmail.com**
+**Languages I have used**
 
-- 🔗 My site:  <a href = "https://kiduswebsdev.web.app"> here </a>
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-<br/>
+**Some of the technologies I have worked with**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Vue](https://img.shields.io/badge/-Vue.JS-000000?style=flat&logo=Vue.JS)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+
+
+
+I am Tesfamichael Molla, a Software Engineer based in Poland. I have been studying and working in the field since high school, starting with HTML and CSS and continuing through my BSc in Electrical and Computer Engineering at Wolkite University and now pursuing an MSc in Software Engineering at Poznan University of Technology. I have worked as a TME Education Ambassador, CTO for a startup, and am currently a mid-level backend developer for Equity Bank Limited. Additionally, I have experience as a freelancer, contributing to a job market search application and working on NFT and mobile banking systems.
+
+
+<!-- Learn more about me https://tesfamichael.dev/  -->
+
+### My Azure contributiion for Equity Bank <br />
+<img src='./Screenshot 2022-10-29 at 15.27.23.png' />
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hope-miky&theme=react&show_icons=true&include_all_commits=true" />
+<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hope-miky&theme=react&layout=compact" />
+</p>
