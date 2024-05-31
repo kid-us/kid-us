@@ -16,7 +16,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 
-**Languages I have worked with**
+**Some of the technologies I have worked with**
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -31,7 +31,6 @@ Hi there 👋! I'm Kidus, with over 4+ years of experience in creating beautiful
 
 Currently, I'm expanding my expertise to mobile app development using React Native. Soon, the era of creating beautiful, functional, and user-friendly web applications will extend to mobile apps as well.
 
-<br />
 <br />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-us&layout=compact&hide=c,python,shell,php,assembly,blade&theme=radical)
