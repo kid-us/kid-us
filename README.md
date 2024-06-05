@@ -20,7 +20,7 @@
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/-C'#'-000000?style=flat&logo=csharp)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
