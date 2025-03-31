@@ -15,6 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Next JS](https://img.shields.io/badge/-Next_JS-000000?style=flat&logo=next_js)
 
 **Some of the technologies I have worked with**
 
